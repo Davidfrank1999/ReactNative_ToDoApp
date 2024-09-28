@@ -1,6 +1,5 @@
 # To Do App
 
-
 ## App Summary
 Project Title: ToDo App
 
@@ -14,6 +13,10 @@ Data Storage: AsyncStorage<br>
 The project is organized into a "modular" or "component-based architecture" structure to enhance maintainability, readability, and scalability.
  <br>
 Conclusion: This ToDo App demonstrates the ability to manage tasks efficiently while leveraging modern web technologies. Using Expo for streamlined development. It showcases skills in React Native development, state management, and data persistence, making it a valuable addition to any portfolio.
+
+## App Display
+![ToDOApp_Display1](assets/ToDOApp_Display1.jpg) 
+![ToDOApp_Display2](assets/ToDOApp_Display2.jpg)
 
 ## Colors
 
